@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689141545944",
+    "project_id": "cicada-c3ee0",
+    "storage_bucket": "cicada-c3ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689141545944:android:3634d8b7130a6de90d50ad",
+        "android_client_info": {
+          "package_name": "com.example.cicada1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTz3VxSbThI9rWIxycx407pJMJR8zMr78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
